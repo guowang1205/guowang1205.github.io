@@ -1,14 +1,16 @@
     ---
-    layout:   post 
-    <title> Sublime 使用Markdown 插件写blog </title>
+    layout:     post 
+    title:      Sublime 使用Markdown 插件写blog
     keywords:   blog
     categories: [随笔]
-    tags:  [随笔]
+    tags:       [随笔]
     ---
 
-  段签两个空行
+　　段签两个空行
+
+
   回车之后的
-##双#号粗体形式##
+
 **星号粗体**
 *斜体*
 
@@ -16,10 +18,14 @@
 
 `单反引号的形式`
 
-``双引号的形式``
+``双引号的形式`nihao` nihao``
 
 ```
 三个反引号的代码块形式
+
+if a < b {
+    sdjafdijfa
+}
 ```
 1.序列1
 2.序列2
