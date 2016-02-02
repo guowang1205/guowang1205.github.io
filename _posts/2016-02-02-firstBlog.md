@@ -2,7 +2,7 @@
 layout:     post
 title:      第一次使用Github博客
 keywords:   blog
-categories: [随笔, Object-C]
+categories: [随笔]
 tags:	    [随笔, Object-C]
 ---
 
