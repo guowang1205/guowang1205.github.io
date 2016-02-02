@@ -1,10 +1,10 @@
-    ---
-    layout:     post 
-    title:      Sublime 使用Markdown 插件写blog
-    keywords:   blog
-    categories: [随笔]
-    tags:       [随笔]
-    ---
+---
+layout:     post 
+title:      Sublime 使用Markdown 插件写blog
+keywords:   blog
+categories: [随笔]
+tags:       [随笔]
+---
 
 　　段签两个空行
 
