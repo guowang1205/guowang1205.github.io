@@ -4,6 +4,7 @@ Title: iOS NSAttributedString（属性字符串）
 Published: true  
 layout: post  
 keywords:blog
+categories: [学习笔记]
 tags: [iOS开发]
 ---
 **简介**本人是一个iOS开发菜鸟，之前很是懒惰，以后希望以此来激励自己，每天对掌握的新知识点进行记录，激励自己也想分享一下！不怕错，更不怕批！只为自己好好的学习留下点努力的痕迹！
