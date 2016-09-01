@@ -1,9 +1,9 @@
 ---
-Date: 2016-09-01  
-Title: iOS NSAttributedString（属性字符串）  
-Published: true  
-layout: post  
-keywords:blog
+Date:       2016-09-01  
+Title:      iOS NSAttributedString（属性字符串）  
+Published:     true  
+layout:      post  
+keywords:     blog
 categories: [学习笔记]
 tags: [iOS开发]
 ---
