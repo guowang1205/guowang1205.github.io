@@ -1,6 +1,6 @@
 ---
-Date:       2016-09-01  
-Title:      iOS NSAttributedString（属性字符串）  
+date:       2016-09-01  
+title:      iOS NSAttributedString（属性字符串）  
 Published:     true  
 layout:      post  
 keywords:     blog
